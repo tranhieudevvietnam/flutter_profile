@@ -55837,7 +55837,7 @@ A.t4.prototype={
 aO(){return new A.IY(B.q)}}
 A.IY.prototype={
 Y(a){var s=this,r=null,q=A.e7(a,r,t.m).w.a.a,p=t.af
-return new A.ug(A.alL(A.a9E(A.a([B.IS,new A.zp(B.vD,A.uF(new A.rh(A.alH(r,r,new A.pW("assets/user1/avatar.png",r,r)),r,r,r,r,r,r,B.iS,r,B.vN,B.aM,B.bY,r,!1,!1,r,!1,!1,r),q/3,q/1.2),r),new A.fO(B.AW,A.a9E(A.a([B.Ol,B.Oj,new A.fO(B.AU,A.Yu(B.dY,A.a([A.VY(r,B.JC.k5(30),r,r,0,r,0,r),B.Gw,A.VY(0,B.JE.k5(20),r,r,r,0,r,r)],p),B.fF),r),A.a9F(r,r,B.ix,r,1,B.AS,r,q),s.ot(B.JD.k5(30),new A.a1R(),"0356132121"),s.ot(B.JB.k5(30),new A.a1S(),"tranhieu.dev.vietnam@gmail.com"),s.ot(B.u4.k5(30),new A.a1T(),"https://github.com/tranhieudevvietnam"),s.ot(B.u4.k5(30),new A.a1U(),"B\u1ea3o hi\u1ec3m xe m\xe1y")],p),B.cN,B.fa),r)],p),B.cN,B.fa),!0),B.h,r)},
+return new A.ug(A.alL(A.a9E(A.a([B.IS,new A.zp(B.vD,A.uF(new A.rh(A.alH(r,r,new A.pW("assets/user1/avatar.png",r,r)),r,r,r,r,r,r,B.iS,r,B.vN,B.aM,B.bY,r,!1,!1,r,!1,!1,r),q/2,q/1.2),r),new A.fO(B.AW,A.a9E(A.a([B.Ol,B.Oj,new A.fO(B.AU,A.Yu(B.dY,A.a([A.VY(r,B.JC.k5(30),r,r,0,r,0,r),B.Gw,A.VY(0,B.JE.k5(20),r,r,r,0,r,r)],p),B.fF),r),A.a9F(r,r,B.ix,r,1,B.AS,r,q),s.ot(B.JD.k5(30),new A.a1R(),"0356132121"),s.ot(B.JB.k5(30),new A.a1S(),"tranhieu.dev.vietnam@gmail.com"),s.ot(B.u4.k5(30),new A.a1T(),"https://github.com/tranhieudevvietnam"),s.ot(B.u4.k5(30),new A.a1U(),"B\u1ea3o hi\u1ec3m xe m\xe1y")],p),B.cN,B.fa),r)],p),B.cN,B.fa),!0),B.h,r)},
 ot(a,b,c){var s=null
 return A.aav(!1,!0,new A.fO(B.AT,A.abw(A.a([a,B.IR,new A.AD(1,B.iT,new A.md(c,s,B.Lu,s,s),s)],t.af),B.fb),s),s,!0,s,s,s,s,s,s,s,s,s,new A.a1Q(b,c),s)}}
 A.a1R.prototype={
